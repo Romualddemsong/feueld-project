@@ -16,7 +16,7 @@ Interview assessment
 ●	Integrate monitoring tools such as Prometheus and Grafana for cluster monitoring.
 ●	Utilize Kubernetes-native monitoring features for application-level metrics.
 ●	Configure logging with tools like Fluentd and Elasticsearch for capturing application logs.
-●	Expose metrics and logs for monitoring and troubleshooting purposes.
+●	Expose metrics and logs for monitoring and troubleshooting purposes
 # Download helm
 curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3
 chmod 700 get_helm.sh
